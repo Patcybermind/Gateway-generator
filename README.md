@@ -4,5 +4,6 @@ and saves it to your world edit schematics folder so make sure you have world ed
 If something isn't working for you just let me know
 
 DEPENDENCIES
+
 You must install mcschematic
 You must also have python 3+ i think but i have only tested it on python 3.10
